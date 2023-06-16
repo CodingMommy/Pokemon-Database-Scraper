@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PokemonDatabaseScraper (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PokemonDatabaseScraper (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
